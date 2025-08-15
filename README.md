@@ -15,12 +15,6 @@ A **real-time hand gesture-based brightness control system** that uses a webcam 
 
 ---
 
-## Demo
-
-![Hand Brightness Demo](demo_screenshot.png)  
-*Note: Replace with actual screenshot or GIF if available.*
-
----
 
 ## Installation
 
